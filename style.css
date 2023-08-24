@@ -2,7 +2,7 @@ body
 {
   margin:0;
   overflow-X:hidden;
-  font-family:"Raleway","Roboto","Helvetica",sans-serif;
+  font-family:"Raleway","Roboto","Helvetica","Ubuntu", "微軟正黑體", sans-serif;
   -webkit-font-smoothing:antialiased;
   -moz-font-smoothing:antialiased;
   -ms-font-smoothing:antialiased;
@@ -15,6 +15,11 @@ body
 ::-webkit-scrollbar
 {
   display:none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
 }
 
 
