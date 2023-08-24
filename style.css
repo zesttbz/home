@@ -796,4 +796,6 @@ nav.main>.tab:hover:after
 .resume .func .interests-items div span {
   display: block;
 }
+
+.contact a{text-decoration: none}
 /*End of Section*/
