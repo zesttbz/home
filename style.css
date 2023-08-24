@@ -798,4 +798,10 @@ nav.main>.tab:hover:after
 }
 
 .contact a{text-decoration: none}
+
+a {
+  text-decoration: none;
+  color: #555;
+  display: block;
+  transition-duration: 0.3s;
 /*End of Section*/
